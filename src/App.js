@@ -35,7 +35,7 @@ function App() {
 
       <Blogs />
       <Footer />
-      Hello ma
+      Hiou
     </main>
   );
 }
