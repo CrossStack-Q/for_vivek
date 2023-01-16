@@ -39,7 +39,7 @@ export default function Reviews() {
             <div className="box">
               <img src="image/pic-1.png" alt="" />
               <p>
-              I have a busy schedule and don't have a lot of time to go to the store, so I decided to give the grocery website a try. I'm glad I did! The website is easy to navigate and the variety of products is impressive. I also love that I can track my order and the delivery was on time. I would highly recommend this website to anyone looking for a efficient grocery shopping experience.
+              I have a busy schedule and don't have a lot of time to go to the store, so I decided to give the grocery website a try. I'm glad I did! easy to navigate and the variety of products is impressive. I also love that I can track my order and the delivery was on time. I would highly recommend this website to anyone looking for a efficient grocery shopping experience.
               </p>
               <h3>Tushar Dixit</h3>
               <div className="stars">
