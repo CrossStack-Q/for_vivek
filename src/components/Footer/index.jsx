@@ -128,7 +128,7 @@ export default function Footer() {
         <p>
           Created By
           {' '}
-          <span>Vivek Mittal</span>
+          <span>NAME NAME</span>
           {' '}
           | For Collage Project
         </p>
